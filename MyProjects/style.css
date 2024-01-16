@@ -1,0 +1,42 @@
+
+h1{
+    font-family: sans-serif;
+   
+}
+.odd{
+    color: #1d25b8fa;
+    font-family: sans-serif;
+    border-left: 10px;
+    border-right: 3px;
+    border-color: rgba(11, 26, 158, 0.666);
+    border: solid;
+    border-radius: 10px;
+    text-align: center;
+    background-color: aqua;
+}
+.new{
+    font-family: sans-serif;
+    color: black;
+    
+}
+header{
+    border-color: blueviolet;
+    border-radius: 8px;
+
+}
+body{
+    margin: 0px;
+}
+header{
+    border-left: 10px;
+    border-right: 3px;
+    border-color: rgba(11, 26, 158, 0.666);
+    border: solid;
+    border-radius: 10px;
+    text-align: center;
+}
+form{
+    background-color: bisque;
+    text-align: center;
+}
+
